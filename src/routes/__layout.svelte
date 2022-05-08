@@ -12,8 +12,7 @@
 
 
 <div class="footer">
-    
-
+    This is Footer
 
 </div>
 
@@ -26,6 +25,7 @@
     }
     .content{
         min-height: 300px;
+        background-color: skyblue;
         padding: 2rem;
     }
 
